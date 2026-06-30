@@ -1,2 +1,2 @@
-time agy --prompt 'write a mysql query to calculate the total revenue by year'
+time agy --prompt 'write a mysql query to calculate the total revenue by year and by region for the schema here'
 
