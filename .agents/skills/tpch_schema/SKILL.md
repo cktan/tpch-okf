@@ -144,7 +144,8 @@ Granular order line items detailing parts bought in a transaction.
 
 ## 3. Key Relationships and Joins
 
-When writing queries for TPC-H benchmarks, keep the following direct relationship paths in mind to optimize join performance:
+When writing queries for TPC-H benchmarks, keep the following direct
+relationship paths in mind to optimize join performance:
 
 1. **Order to Item Details:**
    ```sql
