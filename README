@@ -1,2 +1,5 @@
 time agy --prompt 'write a mysql query to calculate the total revenue by year and by region for the schema here; do not search the web'
 
+or use claude:
+
+\query give me top 5 total revenue by nation in 1991
